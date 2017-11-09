@@ -1,0 +1,17 @@
+﻿Сборка начата 05.11.2017 22:38:07.
+     1>Проект "D:\Универ\mp2-lab2-matrix-master\sln\vc10\sample_utmatrix.vcxproj" в узле 3 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (gtest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /I../../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\samples\sample_matrix.cpp
+         sample_matrix.cpp
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Универ\mp2-lab2-matrix-master\sln\vc10\Release\sample_utmatrix.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Универ\mp2-lab2-matrix-master\sln\vc10\Release\sample_utmatrix.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Универ\mp2-lab2-matrix-master\sln\vc10\Release\sample_utmatrix.lib" /MACHINE:X86 /SAFESEH Release\sample_matrix.obj
+         Создание кода
+         Создание кода завершено
+     1>sample_matrix.obj : warning LNK4099: "vc120.pdb" PDB не найден с "sample_matrix.obj" или на "D:\Универ\mp2-lab2-matrix-master\sln\vc10\Release\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+         sample_utmatrix.vcxproj -> D:\Универ\mp2-lab2-matrix-master\sln\vc10\Release\sample_utmatrix.exe
+     1>Сборка проекта "D:\Универ\mp2-lab2-matrix-master\sln\vc10\sample_utmatrix.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.83

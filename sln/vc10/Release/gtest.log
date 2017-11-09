@@ -1,0 +1,11 @@
+﻿Сборка начата 05.11.2017 22:38:07.
+     1>Проект "D:\Универ\mp2-lab2-matrix-master\sln\vc10\gtest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+     1>..\..\gtest\gtest-all.cc : fatal error C1041: невозможно открыть базу данных программы d:\универ\mp2-lab2-matrix-master\sln\vc10\release\vc120.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+     1>Сборка проекта "D:\Универ\mp2-lab2-matrix-master\sln\vc10\gtest.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.10
